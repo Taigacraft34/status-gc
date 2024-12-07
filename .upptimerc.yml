@@ -6,7 +6,9 @@ sites:
   - name: Greencraft
     url: https://greencraft.fr
   - name: Minecraft
+    check: "tcp-ping"
     url: play.greencraft.fr
+    port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
