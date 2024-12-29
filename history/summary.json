@@ -4,10 +4,10 @@
     "url": "https://greencraft.fr",
     "icon": "https://icons.duckduckgo.com/ip3/greencraft.fr.ico",
     "slug": "greencraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 901,
@@ -15,14 +15,16 @@
     "timeWeek": 747,
     "timeMonth": 901,
     "timeYear": 901,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-29": 1
+    }
   },
   {
     "name": "Minecraft",
     "url": "play.greencraft.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 198,
     "timeYear": 198,
     "dailyMinutesDown": {
+      "2024-12-29": 0,
       "2024-12-21": 20
     }
   }
