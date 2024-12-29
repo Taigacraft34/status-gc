@@ -4,19 +4,19 @@
     "url": "https://greencraft.fr",
     "icon": "https://icons.duckduckgo.com/ip3/greencraft.fr.ico",
     "slug": "greencraft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 901,
-    "timeDay": 667,
-    "timeWeek": 747,
-    "timeMonth": 901,
-    "timeYear": 901,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 894,
+    "timeDay": 662,
+    "timeWeek": 736,
+    "timeMonth": 894,
+    "timeYear": 894,
     "dailyMinutesDown": {
-      "2024-12-29": 1
+      "2024-12-29": 62
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.79%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 198,
     "timeDay": 113,
     "timeWeek": 118,
     "timeMonth": 198,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2024-12-29": 0,
+      "2024-12-29": 62,
       "2024-12-21": 20
     }
   }
